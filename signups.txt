@@ -1,0 +1,40 @@
+user_type:     family
+first_name:     Robbie
+last_name:     Cape
+email:     robbie@cozi.cm
+password:     marce
+
+
+
+user_type:     family
+first_name:     Robbie
+last_name:     Cape
+email:     robbie@cozi.cm
+password:     marce
+
+
+
+user_type:     family
+first_name:     Robbie
+last_name:     Cape
+email:     robbie@cozi.cm
+password:     marce
+
+
+
+user_type:     family
+first_name:     Robbie
+last_name:     Cape
+email:     robbie@cozi.cm
+password:     marce
+
+
+
+user_type:     student
+first_name:     Benjamin
+last_name:     Cape
+email:     benjcape@gmail.comt
+password:     Hello
+
+
+

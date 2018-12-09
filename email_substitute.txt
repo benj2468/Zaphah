@@ -1,0 +1,19 @@
+Thanks for signing up!
+Please click the following link to verify your email, and activate your account!
+
+localhost:8888/Summer%20Project/verify_email.php?email=robbie@capefamily.org&user=family&hash=f0935e4cd5920aa6c7c996a5ee53a70fThanks for signing up!
+Please click the following link to verify your email, and activate your account!
+
+localhost:8888/Summer%20Project/verify_email.php?email=bonnie@capefamily.org&user=family&hash=9ab0d88431732957a618d4a469a0d4c3Thanks for signing up!
+Please click the following link to verify your email, and activate your account!
+
+localhost:8888/Summer%20Project/verify_email.php?email=ben@cape.com&user=student&hash=6da9003b743b65f4c0ccd295cc484e57Thanks for signing up!
+Please click the following link to verify your email, and activate your account!
+
+localhost:8888/Summer%20Project/verify_email.php?email=bonnie@capefamily.org&user=family&hash=48aedb8880cab8c45637abc7493ecdddThanks for signing up!
+Please click the following link to verify your email, and activate your account!
+
+localhost:8888/Summer%20Project/verify_email.php?email=dalia@capefamily.org&user=student&hash=59b90e1005a220e2ebc542eb9d950b1eThanks for signing up!
+Please click the following link to verify your email, and activate your account!
+
+localhost:8888/Summer%20Project/verify_email.php?email=benjcape@gmail.com&user=student&hash=109a0ca3bc27f3e96597370d5c8cf03d
